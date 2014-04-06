@@ -1,0 +1,6 @@
+LIBRARY	"archStatusLog"
+
+EXPORTS
+	queryPlugInfo
+	pluginLoad
+	pluginUnload
